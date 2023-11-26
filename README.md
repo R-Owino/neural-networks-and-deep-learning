@@ -1,12 +1,12 @@
 ## Neural Networks and Deep Learning Exercises
 
-* Neural networks - a beautiful biologically inspired programming paradigm which enables a computer to learn from observational data
-* Deep learning - powerful set of techniques for learning in neural networks 
+* Neural networks - a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data
+* Deep learning - a powerful set of techniques for learning in neural networks 
 
 This repository contains my solutions and implementations for the exercises from Michael Nielson's book ["Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/index.html)
 
 ### Dependencies
-These can be found in the [requirements.txt]() file, usage explained below.
+These can be found in the [requirements.txt](https://github.com/R-Owino/neural-networks-and-deep-learning/blob/main/requirements.txt) file, usage explained below.
 
 ### Usage
 - Create a virtual environment in the project directory containing your work and change into that directory
@@ -19,7 +19,7 @@ source name_of_venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
-- In Chapter 1, to get a similar output as the one in the book, run `main.py` and for the excercise, run `main-1.py`
+- In Chapter 1, to get a similar output as the one in the book, run `main.py`, and for the exercise, run `main-1.py`
 
 ### Acknowledgments
-Acknowledgment to [Michael Nielson](https://michaelnielsen.org/) for providing the free treasured book, the exercises and projects.
+Acknowledgment to [Michael Nielson](https://michaelnielsen.org/) for providing the free treasured book, the exercises, and projects.
